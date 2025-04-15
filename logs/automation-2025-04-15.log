@@ -1,0 +1,67 @@
+11:19:51.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+11:19:53.063 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+11:19:53.076 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:19:56.931 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+11:19:57.132 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest Test case***
+11:20:11.844 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+11:20:16.461 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+11:20:59.954 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:21:01.425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:22:09.364 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:22:10.905 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:24:42.389 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:24:43.507 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:27:44.180 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:27:45.224 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:28:02.530 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest Test case***
+11:28:04.531 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+11:28:06.291 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+11:28:06.300 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+11:28:10.720 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+11:28:10.898 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest Test case***
+11:28:26.267 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+11:28:30.249 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+14:32:34.581 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+14:32:35.706 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+14:32:58.782 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest Test case***
+14:32:59.860 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on My Account...
+14:33:02.039 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link...
+14:33:02.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details...
+14:33:06.209 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating Expected message...
+14:33:06.453 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished TC001_AccountRegistrationTest Test case***
+14:33:25.609 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest***
+14:33:29.856 [main] INFO  testCases.TC002_LoginTest - ***Finished TC002_LoginTest***
+20:46:06.365 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+20:46:07.295 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:23:33.874 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:23:35.235 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:25:18.315 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:25:19.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:31:09.336 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:31:10.657 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:56:04.168 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:56:05.614 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
+11:57:26.414 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml"
+11:57:27.237 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspaces\JavaSeleniumAutomation\Opencart\master.xml
+
