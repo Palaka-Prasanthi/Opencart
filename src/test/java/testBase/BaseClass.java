@@ -79,7 +79,7 @@ public class BaseClass {
 			default: System.out.println("No Matching browsers");  return;		//returns means exit from loop
 			}
 			
-			driver=new RemoteWebDriver(new URL("http://192.168.31.118:4444/wd/hub"), capabilities);		//launch url
+			driver=new RemoteWebDriver(new URL("http://192.168.31.118:4454/wd/hub"), capabilities);		//launch url
 		
 		}
 		

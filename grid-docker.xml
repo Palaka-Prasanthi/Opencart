@@ -17,7 +17,7 @@
   </test> 
   
   
-  <!--<test name="Linux-Firefox">
+  <test name="Linux-Firefox">
   <parameter name="os" value="Linux"></parameter>
   <parameter name="browser" value="firefox"></parameter>
   
@@ -25,6 +25,6 @@
       <class name="testCases.TC001_AccountRegistrationTest"/>
        <class name="testCases.TC002_LoginTest"/>
     </classes>
-  </test> -->
+  </test> 
   
 </suite> <!-- Suite -->
